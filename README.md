@@ -6,9 +6,9 @@
 
 I spent a decade shipping products the traditional way — specs, roadmaps, sprint ceremonies — for orgs ranging from federal agencies to fast-moving startups. Now I'm learning to build the products myself, using AI as my dev team. This is where I document that shift.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abansleben)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ADD-YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.bansleben@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pfandastudios.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ADD-YOUR-PORTFOLIO-URL)
 
 </div>
 
@@ -16,7 +16,7 @@ I spent a decade shipping products the traditional way — specs, roadmaps, spri
 
 ### 🚀 What I'm doing right now
 
-- Building end-to-end products with AI-assisted development — going from idea to shipped without waiting on a sprint cycle
+- Building **EV Sentinel**, a fleet battery-health case study on top of High Mobility's Auto API — my main focus right now
 - Product Manager at **Aampere**, working on a B2B platform serving vehicle dealers
 - Based in Munich, learning to move between "PM who writes the spec" and "builder who ships the thing"
 - Organizing **Laptops & Lederhosen** — a Munich vibe-coding meetup for people building with AI
@@ -39,16 +39,15 @@ Browse more badge options at https://github.com/Ileriayo/markdown-badges
 ### 🧪 Featured builds
 
 <!-- 
-This is a placeholder section — replace each row below as you ship real projects.
+Add more rows here as you ship real projects.
 Format: **[Project Name](link-to-repo)** — one punchy line on the problem it solves + outcome, if you have one.
-Aim for 3-4 of these. Recruiters scan this section first.
+Recruiters scan this section first.
 -->
 
 | Project | What it does | Status |
 |---|---|---|
-| **[Project name](#)** | One-line pitch: the problem it solves and for whom | 🚧 in progress |
-| **[Project name](#)** | One-line pitch: the problem it solves and for whom | 🚧 in progress |
-| **[Project name](#)** | One-line pitch: the problem it solves and for whom | 💡 planned |
+| **[EV Sentinel](https://github.com/alexbans13/high-mobility)** | Fleet EV battery-health dashboard on High Mobility's Auto API — real-time telematics streaming, a rule-based battery risk engine (RED/YELLOW/GREEN/GREY diagnostics), and predictive maintenance actions for connected vehicles | 🚧 in progress — main focus |
+| **[Rituals](https://github.com/alexbans13/rituals)** | A mobile app (Expo/React Native) for discovering and practicing grounding cultural rituals — forest bathing, hygge, fika, and more — with step-by-step guides and completion tracking | 💡 planned |
 
 ---
 
