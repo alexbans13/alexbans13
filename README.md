@@ -48,19 +48,3 @@ Recruiters scan this section first.
 |---|---|---|
 | **[EV Sentinel](https://github.com/alexbans13/high-mobility)** | Fleet EV battery-health dashboard on High Mobility's Auto API — real-time telematics streaming, a rule-based battery risk engine (RED/YELLOW/GREEN/GREY diagnostics), and predictive maintenance actions for connected vehicles | 🚧 in progress — main focus |
 | **[Rituals](https://github.com/alexbans13/rituals)** | A mobile app (Expo/React Native) for discovering and practicing grounding cultural rituals — forest bathing, hygge, fika, and more — with step-by-step guides and completion tracking | 💡 planned |
-
----
-
-### 📈 Activity
-
-<!-- 
-This stats card works automatically once this repo is public and named exactly to match your username.
-Swap "alexbans13" below if your GitHub handle ever changes.
--->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexbans13&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alex's GitHub stats" />
-</div>
-
-<div align="center">
-<sub>Let's build something. Reach out above.</sub>
-</div>
