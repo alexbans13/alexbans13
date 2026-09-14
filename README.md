@@ -47,4 +47,5 @@ Recruiters scan this section first.
 | Project | What it does | Status |
 |---|---|---|
 | **[EV Sentinel](https://github.com/alexbans13/high-mobility)** | Fleet EV battery-health dashboard on High Mobility's Auto API — real-time telematics streaming, a rule-based battery risk engine (RED/YELLOW/GREEN/GREY diagnostics), and predictive maintenance actions for connected vehicles | 🚧 in progress — main focus |
+| **[Alltag](https://github.com/alexbans13/journal-language-learning)** | A journaling app that turns your own daily writing into language practice — write about your day, then practice expressing it in your target language (German first) via AI-generated translation, guided sentence correction, phrasing variants, and a dialect mode, all calibrated to your CEFR level | 🚧 in progress |
 | **[Rituals](https://github.com/alexbans13/rituals)** | A mobile app (Expo/React Native) for discovering and practicing grounding cultural rituals — forest bathing, hygge, fika, and more — with step-by-step guides and completion tracking | 💡 planned |
