@@ -16,8 +16,8 @@ I spent a decade shipping products the traditional way — specs, roadmaps, spri
 
 ### 🚀 What I'm doing right now
 
-- Building **EV Sentinel**, a fleet battery-health case study on top of High Mobility's Auto API — my main focus right now
-- Product Manager at **Aampere**, working on a B2B platform serving vehicle dealers
+- Product Manager at **Aampere**, working on a C2B platform helping EU citizens sell their electric vehicles
+- Building **EV Sentinel**, a fleet battery-health case study on top of High Mobility's Auto API
 - Based in Munich, learning to move between "PM who writes the spec" and "builder who ships the thing"
 - Organizing **Laptops & Lederhosen** — a Munich vibe-coding meetup for people building with AI
 
