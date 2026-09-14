@@ -6,9 +6,9 @@
 
 I spent a decade shipping products the traditional way — specs, roadmaps, sprint ceremonies — for orgs ranging from federal agencies to fast-moving startups. Now I'm learning to build the products myself, using AI as my dev team. This is where I document that shift.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ADD-YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abansleben)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.bansleben@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ADD-YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pfandastudios.com)
 
 </div>
 
